@@ -1,0 +1,41 @@
+/*
+Theme Name: Treefix Landing
+Theme URI: http://treefix.com
+Author: Rodrigo Pardo
+Description: This is the Treefix theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: Treefix Landing
+
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700');
+
+/*
+
+font-family: 'Rubik', sans-serif;
+
+*/
+body {
+	background: -moz-linear-gradient(-45deg, #53b576 0%, #28a8e0 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #53b576 0%,#28a8e0 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #53b576 0%,#28a8e0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#53b576', endColorstr='#28a8e0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.logoContainer {
+	display: block;
+	max-width:480px;
+	width:100%;
+	height:auto;
+	margin:0 auto;
+}
+.comingSoonText {
+	font-size:1.6em;
+	font-weight:700;
+	letter-spacing: 1px;
+	display:block;
+	text-align:center;
+	width:100%;
+}
