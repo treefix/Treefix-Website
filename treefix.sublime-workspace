@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/treefix/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 303.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1053.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/treefix/wp-content",
+		"/C/wamp64/www/treefix/wp-content/themes",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/frameworks",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss/style.scss",
+		"/C/Users/rodri/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/dist/js/bootstrap.bundle.js",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/bootstrap/_alert.scss",
+		"/C/Users/rodri/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/scss/_type.scss",
+		"/C/Users/rodri/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/scss/_variables.scss",
+		"/C/Users/rodri/Desktop/materialize-src/sass/materialize.scss",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss/_dropdown.scss",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss/_forms.scss",
+		"/C/Users/rodri/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/scss/bootstrap.scss",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/wamp64/www/treefix/wp-config.php",
+		"/C/Users/rodri/.ssh/id_rsa",
+		"/C/Users/rodri/.ssh/id_rsa.pub",
+		"/C/wamp64/www/treefix/gitignore.txt",
+		"/C/Users/rodri/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/scss/_dropdown.scss",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss/_navbar.scss",
+		"/C/wamp64/www/treefix/wp-content/themes/treefix/scss/bootstrap.scss",
+		"/C/Users/rodri/Downloads/treefix (1)/treefix/sass/site/primary/_posts-and-pages.scss",
+		"/C/Users/rodri/Downloads/treefix (1)/treefix/sass/site/_site.scss",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/members-loop.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-3/edit-profile-updated.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-3/edit-profile.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-3/profile.php",
+		"/C/Users/rodri/Downloads/understrap/header.php",
+		"/C/Users/rodri/Downloads/understrap/style.css",
+		"/C/Users/rodri/Desktop/treefix/style.css",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/stylesheet.css",
+		"/C/Users/rodri/Downloads/understrap/sass/theme.scss",
+		"/C/Users/rodri/Downloads/understrap/sass/understrap/understrap.scss",
+		"/C/Users/rodri/Downloads/understrap/sass/theme/_theme_variables.scss",
+		"/C/Users/rodri/Downloads/understrap/sass/theme/_theme.scss",
+		"/C/Users/rodri/AppData/Local/Temp/Temp1_understrap.zip/style.css",
+		"/C/Users/rodri/Desktop/style.css",
+		"/C/Users/rodri/Desktop/treefix/functions.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/front-page 3.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/style 4.css",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/header 3.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/front-page 2.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/style 3.css",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/wp-settings.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/functions 3.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/front-page.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/rodri/AppData/Local/Temp/fz3temp-2/footer.php"
+	],
+	"find":
+	{
+		"height": 92.0
+	},
+	"find_in_files":
+	{
+		"height": 238.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"popper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/treefix/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 61.0
+	},
+	"input":
+	{
+		"height": 91.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "treefix.sublime-project",
+	"replace":
+	{
+		"height": 113.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 1166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
